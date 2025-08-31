@@ -17,7 +17,7 @@
 ## 📈 GitHub Stats
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Wannabej&show_icons=true&theme=tokyonight)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-Wannabej&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Wannabej&layout=compact&theme=tokyonight)
 
 ---
 
