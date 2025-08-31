@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hola, soy José Arredondo
 
-<!--
-**Wannabej/Wannabej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería de Software** en la **Universidad Nacional de Ingeniería (UNI)**, apasionado por la tecnología, la programación competitiva y el desarrollo de software.  
+💻 Me interesa aprender y crear proyectos en **C++, Python, desarrollo web y ciberseguridad**.  
+🚀 Mi objetivo es crecer como profesional construyendo soluciones útiles e innovadoras.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+- Lenguajes: C++, Python, JavaScript  
+- Web: HTML, CSS, React  
+- Otros: Git, Linux, SQL  
+- Intereses: Programación competitiva, seguridad informática, desarrollo de software
+
+---
+
+## 📈 GitHub Stats
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Conéctate conmigo
+- ✉️ Email: arredondotomairoj32@gmail.com
+- 💼 LinkedIn: 
+- 🌐 Portafolio: 
+
+---
+
+⭐ *Gracias por visitar mi perfil. ¡Siempre abierto a aprender y colaborar!*  
+
+
+
